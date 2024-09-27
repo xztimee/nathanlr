@@ -777,7 +777,7 @@
 			);
 			dependencies = (
 			);
-			name = NathanLR;
+			name = XZTIME;
 			packageProductDependencies = (
 				D801E0EC2C6D5FB500CE0B46 /* Markdown */,
 				D8E238842C86AF8D00D6B343 /* libzstd */,
